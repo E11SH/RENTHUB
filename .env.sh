@@ -1,5 +1,5 @@
 # MongoDB Configuration
-MONGODB_URI=mongodb://localhost:27017/renthub
+MONGODB_URI=yourconf
 
 # JWT Secret Key (Change this in production!)
 JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
