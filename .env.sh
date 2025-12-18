@@ -1,0 +1,12 @@
+# MongoDB Configuration
+MONGODB_URI=yourconf
+
+# JWT Secret Key (Change this in production!)
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+
+# Server Configuration
+PORT=5000
+NODE_ENV=development
+
+# For Production (MongoDB Atlas)
+# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/renthub?retryWrites=true&w=majority
